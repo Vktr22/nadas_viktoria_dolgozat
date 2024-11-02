@@ -3,15 +3,13 @@ Elkészítendő 2  html oldal a minta szerint.
 
 Hozz létre egy mappát sajat_nev_dolgozat néven.  Ide másold a képeket, és ide mentsd az elkészült állományokat. 
 
-Ha készen vagy, tömörítsd be (ZIP) a mappát és töltsd fel az etananyagra –ra  a „dolgozat feltöltése” linkhez!
-Amennyiben nem így nevezed el a mappát, vagy nem ZIP-be tömörítesz, ki sem nyitom, automatikusan 0 pont! 
 
 
 HTML:
-Az oldal neve a saját neved legyen, ez jelenjen meg a böngésző címsorában. 
-Használj UTF-8-as kódolást, lásd el az oldalt a megfelelő kulcsszavakkal és leírással!
-Helyesen kialakított html oldalszerkezet, head, body, html, doctype 
-Div tagek használat a tartalom számára 
+-----------Az oldal neve a saját neved legyen, ez jelenjen meg a böngésző címsorában. 
+-----------Használj UTF-8-as kódolást, lásd el az oldalt a megfelelő kulcsszavakkal és leírással!
+-----------Helyesen kialakított html oldalszerkezet, head, body, html, doctype 
+-----------Div tagek használat a tartalom számára 
 id és a class használata 
 Címsorok és bekezdések használata 
 Képek beillesztése. A képek mérete illeszkedjen a képek valóságos méretéhez 
