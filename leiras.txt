@@ -1,0 +1,43 @@
+Elkészítendő 2  html oldal a minta szerint.
+Összesen 2 állományt kell elkészíteni: index.html, stilus.css.  
+
+Hozz létre egy mappát sajat_nev_dolgozat néven.  Ide másold a képeket, és ide mentsd az elkészült állományokat. 
+
+Ha készen vagy, tömörítsd be (ZIP) a mappát és töltsd fel az etananyagra –ra  a „dolgozat feltöltése” linkhez!
+Amennyiben nem így nevezed el a mappát, vagy nem ZIP-be tömörítesz, ki sem nyitom, automatikusan 0 pont! 
+
+
+HTML:
+Az oldal neve a saját neved legyen, ez jelenjen meg a böngésző címsorában. 
+Használj UTF-8-as kódolást, lásd el az oldalt a megfelelő kulcsszavakkal és leírással!
+Helyesen kialakított html oldalszerkezet, head, body, html, doctype 
+Div tagek használat a tartalom számára 
+id és a class használata 
+Címsorok és bekezdések használata 
+Képek beillesztése. A képek mérete illeszkedjen a képek valóságos méretéhez 
+A recept hozzávalóit felsorolással készítsd el.  
+Alakíts ki menüt! Az első menüpont az általad kiválasztott recept nevét tartalmazza,
+    a második menüpont egy internetes oldalra mutató linket.
+
+CSS:
+Az oldal hátterének válassz egy képet!
+Állíts be talpatlan betűcsaládot a teljes oldalra a betűméret 10pt legyen
+Állíts betűszínt! 
+A tartalom az oldal közepén helyezkedjen el,
+    800 képpont széles legyen,
+    Állíts a betűszínhez passzoló háttérszínt! 
+    a belső margó 10 pontos legyen
+A kép a szöveg mellett jobb oldalon helyezkedjen el.   
+    A szövegtől való távolságuk egységesen 10 képpont legyen,  
+    a képtől 2 pontnyi távolságra 
+     vegye körbe 1 pont vastag folytonos szürke vonal. 
+    A kép körüli szegély legyen lekerekített sarkú.
+Az első szintű címsor betűmérete  20 pont, válassz hozzá látványos Google Fonts közül.  
+    
+    A betűk közti távolság 10 pont, 
+    Csupa nagybetűs 
+    A bekezdések legyenek sorkizárt igazításúak
+Alakíts ki menüt! A linkek körül legyen  szegély. belső és külső margó is!  
+    Ha a linkek fölé viszem az egeret, változzon a betűszín és a háttérszín.  
+    A menü linkjei ne legyenek aláhúzva.
+Validált html, css
