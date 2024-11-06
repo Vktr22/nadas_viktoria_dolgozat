@@ -11,20 +11,20 @@ HTML:
 -----------Helyesen kialakított html oldalszerkezet, head, body, html, doctype 
 -----------Div tagek használat a tartalom számára 
 id és a class használata 
-Címsorok és bekezdések használata 
-Képek beillesztése. A képek mérete illeszkedjen a képek valóságos méretéhez 
-A recept hozzávalóit felsorolással készítsd el.  
-Alakíts ki menüt! Az első menüpont az általad kiválasztott recept nevét tartalmazza,
-    a második menüpont egy internetes oldalra mutató linket.
+-----------Címsorok és bekezdések használata 
+-----------Képek beillesztése. A képek mérete illeszkedjen a képek valóságos méretéhez 
+-----------A recept hozzávalóit felsorolással készítsd el.  
+-----------Alakíts ki menüt! Az első menüpont az általad kiválasztott recept nevét tartalmazza,
+-----------a második menüpont egy internetes oldalra mutató linket.
 
 CSS:
-Az oldal hátterének válassz egy képet!
-Állíts be talpatlan betűcsaládot a teljes oldalra a betűméret 10pt legyen
-Állíts betűszínt! 
-A tartalom az oldal közepén helyezkedjen el,
-    800 képpont széles legyen,
-    Állíts a betűszínhez passzoló háttérszínt! 
-    a belső margó 10 pontos legyen
+-----------Az oldal hátterének válassz egy képet!
+-----------Állíts be talpatlan betűcsaládot a teljes oldalra a betűméret 10pt legyen
+-----------Állíts betűszínt! 
+-----------A tartalom az oldal közepén helyezkedjen el,
+    -------800 képpont széles legyen,
+    -------Állíts a betűszínhez passzoló háttérszínt! 
+    -------a belső margó 10 pontos legyen
 A kép a szöveg mellett jobb oldalon helyezkedjen el.   
     A szövegtől való távolságuk egységesen 10 képpont legyen,  
     a képtől 2 pontnyi távolságra 
